@@ -1,0 +1,28 @@
+FINAL BUSINESS RECOMMENDATION – A/B TESTING (MARKETING)
+
+Objective:
+To evaluate whether the new marketing campaign (Test group) performs better
+than the existing campaign (Control group) in terms of conversion rate and revenue.
+
+Key Findings:
+- Control Conversion Rate: 8.40%
+- Test Conversion Rate: 11.53%
+- Absolute Conversion Uplift: +3.13%
+- p-value (Chi-square test): 1.23 × 10⁻⁸ (Statistically Significant)
+
+Revenue Analysis:
+- The Test group generated a higher average revenue per user.
+- A two-sample t-test confirmed that the difference in mean revenue between
+  Control and Test groups is statistically significant (p < 0.05).
+
+Conclusion:
+The Test marketing campaign significantly outperforms the Control campaign
+in both user conversion and revenue generation.
+
+Final Recommendation:
+Roll out the Test campaign to all users to maximize conversions and revenue.
+Continue monitoring performance metrics after full deployment.
+
+Confidence Level:
+High – conclusions are supported by strong statistical evidence
+and clear business impact.
